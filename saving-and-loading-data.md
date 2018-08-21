@@ -32,7 +32,7 @@ In order to use Firebase in the blog, we'll need some identification, to prove w
   firebase.initializeApp(config);
 </script>
 ```
-- Paste it in your `index.html` for now before closing the `<head>` tag and before your `javascript` file's inclusion
+- Paste it in your `index.html` for now before closing the `<body>` tag and before your `javascript` file's inclusion
 - Get to the `Database` section (it is under the `Development` menu item if it's not open)
 - Create a database there
   - Change the `Cloud FireStore BETA` to `Realtime Database`
