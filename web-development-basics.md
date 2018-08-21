@@ -1,5 +1,50 @@
 # Introduction to Web development basics
 
+## Material Review
+
+- Anatomy of an HTML element
+- Nesting elements
+- Block versus inline elements
+- Empty elements
+- Core elements
+  - `div`
+  - `span`
+  - `h1` - `h6`
+  - `p`
+  - `a`
+  - `img`
+  - `ul`
+  - `ol`
+  - `li`
+- Semantic elements
+- Attributes
+- Anatomy of an HTML document
+- Whitespaces in HTML
+- HTML comments
+- Forms
+  - `form`
+  - `input`
+  - `textarea`
+  - `label`
+  - `fieldset`
+  - `legend`
+- MDN Web Docs
+- Anatomy of a CSS ruleset
+- Selecting multiple elements
+- Different types of selectors
+  - Elements
+  - Class
+- The box model
+- Core properties
+  - `padding`
+  - `border`
+  - `margin`
+  - `height`
+  - `width`
+  - `background`
+  - `color`
+  - `font-size`
+
 ## Workshop
 
 - Separate your solutions into different folders
@@ -26,10 +71,14 @@
 
 ![](assets/exercise-05.png)
 
-### Exercise 6
+### Exercise 6 (optional)
 
 ![](assets/exercise-06.png)
 
-### Exercise 7
+### Exercise 7 (optional)
 
 ![](assets/exercise-07.png)
+
+### Project exercise
+
+[The blog project](blog-project.md)
