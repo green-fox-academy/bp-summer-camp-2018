@@ -72,7 +72,7 @@ fb.ref(path).set(dataToSave);
 ```
 
 ## Loading existing posts
-Since we're collecting the posts under the paths like `posts/1`, `posts/2` and so on. Imagine these paths like directories and files. `posts` is the directory of posts and `1` and `2` are separate files in that. So we can retreive all posts by providing the path of the "folder": `posts`
+Since we're collecting the posts under the paths like `posts/1`, `posts/2` and so on. Imagine these paths like directories and files. `posts` is the directory of posts and `1` and `2` are separate files in that. So we can retrieve all posts by providing the path of the "folder": `posts`
 - The code looks like this:
 ```javascript
 fb.ref("posts").once('value').then(data => {
