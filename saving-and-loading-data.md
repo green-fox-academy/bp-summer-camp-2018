@@ -13,7 +13,7 @@ Firebase is a cloud based database, perfect for storing our blog posts safely.
 - Wait a little while Google creates the storage for you, then continue
 
 ### Configuring your app and Firebase
-In order to use Firebase in the blog, we'll need some identification, to proove we're the ones who created this project, hence we're able to store data here. Also we need to set up the storage, because Firebase can be used for many more. For now this is going to be the only feature we'll use.
+In order to use Firebase in the blog, we'll need some identification, to prove we're the ones who created this project, hence we're able to store data here. Also we need to set up the storage, because Firebase can be used for many more. For now this is going to be the only feature we'll use.
 - On the dashboard click on the Add to web project button to get the needed code for authentication
 ![Add to web project](assets/fb-add-to-web.png)
 - Copy the snippet that looks similar to this:
@@ -36,7 +36,7 @@ In order to use Firebase in the blog, we'll need some identification, to proove 
 - Get to the `Database` section (it is under the `Development` menu item if it's not open)
 - Create a database there
   - Change the `Cloud FireStore BETA` to `Realtime Database`
-  - And change the rules, so we're able to read and write data frome our application and not just from the console itself:
+  - And change the rules, so we're able to read and write data from our application and not just from the console itself:
 ```json
 {
   "rules": {
@@ -63,7 +63,7 @@ let path = "posts/1";
 let dataToSave = {
   title: "My first saved blog post",
   text: "Some hilarious content, which proves how awesome I am."
-}
+};
 ```
 - (Obviously these texts should be read out from your `New Post` form)
 - Saving the data is now this simple:
@@ -77,7 +77,7 @@ Since we're collecting the posts under the paths like `posts/1`, `posts/2` and s
 ```javascript
 fb.ref("posts").once('value').then(data => {
   let savedPosts = data.val();
-})
+});
 ```
 
 ## Updating / deleting
@@ -87,7 +87,7 @@ let samePath = "posts/1";
 let updatedData = {
   title: "My first edited and updated blog post",
   text: "Some hilarious content again, which proves how awesome I am again."
-}
+};
 fb.ref(samePath).set(updatedData);
 ```
 For deleting we just need the specific path we want to remove, and use the `remove()` keyword:
