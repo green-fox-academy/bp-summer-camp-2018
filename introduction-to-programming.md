@@ -167,3 +167,9 @@ let additionalBlock = {
 ![Todo list](assets/js-ex6.png)
 - When clicking on the `Add todo` button add the content of the input field to the list
 - (Optional) Clicking on a list item should make the text line-through
+
+## Project exercise
+
+Let's update your blog with some awesome jQuery and JavaScript!
+
+[Updating your blog](update-blog-project.md)

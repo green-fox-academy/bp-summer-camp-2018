@@ -79,6 +79,8 @@
 
 ![](assets/exercise-07.png)
 
-### Project exercise
+## Project exercise
+
+Let's start building your blog!
 
 [The blog project](blog-project.md)

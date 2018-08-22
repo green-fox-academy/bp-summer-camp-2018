@@ -1,4 +1,4 @@
-# Updating the Blog
+# Updating your Blog
 
 ## Adding a new Post
 - Create an EventListener for the New Post form's button
@@ -7,7 +7,10 @@
 - Append the whole thing after or before the existing posts
 
 ## Optional
-- Create an array that contains the data of the initial posts:
+- Placing the posts from JavaScript
+  - Create an array that contains the data of the initial posts
+  - Remove the initial posts from the HTML
+  - Create an HTML element *for each* post object in the `initialData` array and append them into the containing element
 ```javascript
 let initialData = [
   {
@@ -17,5 +20,5 @@ let initialData = [
   ...
 ];
 ```
-- Remove the initial posts from the HTML
-- Create an HTML element *for each* post object in the `initialData` array and append them into the containing element
+  
+- Make the posts appear with a fancy animation
