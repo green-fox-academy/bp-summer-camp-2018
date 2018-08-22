@@ -21,14 +21,6 @@ the Camp!
 
 ## Schedule
 
-- Day 1: [Introduction to Web development basics](web-development-basics.md)
-  - [Solutions for day 1](solutions/day-01)
-- Day 2: [Blog project](blog-project.md)
-  - [Web basics presentation](https://docs.google.com/presentation/d/1BRkqewW8a5JQGnCv3ynbxhgr0BjwSuk3v7YmJLQIAkE/edit?usp=sharing)
-- Day 3: [Connect your blog to a Backend](#)
-- [The notes](notes.md)
-- [Extra UI exercises](extra-ui-exercises.md)
-
 ### Day 1
 
 | Time          | Event                                                                        |
