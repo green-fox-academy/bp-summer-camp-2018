@@ -33,26 +33,26 @@ the Camp!
 
 | Time          | Event                                                                        |
 | :------------ | :--------------------------------------------------------------------------- |
-| 09:00 - 09:30 | Introduction                                                                 |
-| 09:30 - 10:00 | Check-in                                                                     |
-| 10:00 - 10:30 | Icebreaker activity                                                          |
-| 10:30 - 12:00 | Presentation about HTML and CSS                                              |
-| 12:00 - 13:00 | [Introduction to Web development basics](web-development-basics.md) workshop |
+| 08:00 - 08:30 | Arriving & Introduction                                                                 |
+| 08:30 - 08:45 | Check-in                                                                     |
+| 08:45 - 09:30 | Icebreaker activity                                                          |
+| 09:30 - 11:00 | Presentation about HTML and CSS                                              |
+| 11:00 - 13:00 | [Introduction to Web development basics](web-development-basics.md) workshop |
 | 13:00 - 14:00 | Lunch break                                                                  |
-| 14:00 - 17:00 | [Introduction to Web development basics](web-development-basics.md) workshop |
-| 17:00 - 17:30 | Check-out                                                                    |
+| 14:00 - 15:30 | [Introduction to Web development basics](web-development-basics.md) workshop |
+| 15:30 - 17:00 | [Blog project](blog-project.md) workshop     
+| 17:30 - 18:00 | Check-out                                                                    |
 
 ### Day 2
 
 | Time          | Event                                                                     |
 | :------------ | :------------------------------------------------------------------------ |
 | 09:00 - 09:30 | Check-in                                                                  |
-| 09:30 - 10:00 | Recap of day 1                                                            |
-| 10:00 - 10:30 | Introducing the blog project                                              |
-| 10:30 - 13:00 | [Blog project](blog-project.md) workshop                                  |
+| 09:30 - 11:00 | Presentation about Javascript Basics                    |
+| 11:00 - 13:00 | [Javascript Excersises]() workshop                                  |
 | 13:00 - 14:00 | Lunch break                                                               |
-| 14:00 - 17:00 | [Blog project](blog-project.md) workshop                                  |
-| 17:00 - 17:30 | Check-out                                                                 |
+| 14:00 - 17:30 | [Javascript Excersises]() workshop                                  |
+| 17:30 - 18:00 | Check-out                                                                 |
 
 ### Day 3
 
@@ -65,6 +65,7 @@ the Camp!
 | 16:30 - 17:00 | Where to go next?                                                           |
 | 17:00 - 17:30 | Demo                                                                        |
 | 17:30 - 18:00 | Check-out                                                                   |
+| 17:30 - 18:00 | Beer & fun                                                                  |
 
 
 
