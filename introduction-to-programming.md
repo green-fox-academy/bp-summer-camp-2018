@@ -1,5 +1,12 @@
 # Introduction to programming
 
+## Materials
+| Material | Time |
+|:-------- | ----:|
+|[Javascript Tutorial - Programming Tutorial for Beginners Pt 1](https://www.youtube.com/watch?v=vZBCTc9zHtI)| 13:34 |
+|[jQuery Tutorial #1 - jQuery Tutorial for Beginners](https://www.youtube.com/watch?v=hMxGhHNOkCU)| 8:01 |
+|[jQuery Tutorial #2 - Event Binding](https://www.youtube.com/watch?v=G-POtu9J-m4)| 7:32 |
+
 ## Material Review
 
 - What is JavaScript?
