@@ -60,9 +60,10 @@ the Camp!
 | Time          | Event                                                                       |
 | :------------ | :-------------------------------------------------------------------------- |
 | 09:00 - 09:30 | Check-in                                                                    |
-| 09:30 - 13:00 | TBD                                                                         |
+| 09:30 - 11:00 | Presentation about Firebase, Git and deployment        |
+| 11:00 - 13:00 | [Saving and loading posts](saving-and-loading-data.md) workshop
 | 13:00 - 14:00 | Lunch break                                                                 |
-| 14:00 - 16:00 | TBD                                                                         |
+| 14:00 - 16:30 | [Commiting to git and deploying the blog](deployment.md)   |
 | 16:30 - 17:00 | Where to go next?                                                           |
 | 17:00 - 17:30 | Demo                                                                        |
 | 17:30 - 18:00 | Check-out                                                                   |
