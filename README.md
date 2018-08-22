@@ -44,7 +44,7 @@ the Camp!
 | 11:00 - 13:00 | [Introduction to programming](introduction-to-programming.md) workshop                                  |
 | 13:00 - 14:00 | Lunch break                                                               |
 | 14:00 - 15:30 | [Introduction to programming](introduction-to-programming.md) workshop                                  |
-| 15:30 - 17:30 | [Update the Blog project](blog-project.md) workshop  
+| 15:30 - 17:30 | [Update the Blog project](update-blog-project.md) workshop  
 | 17:30 - 18:00 | Check-out                                                                 |
 
 ### Day 3
@@ -59,7 +59,7 @@ the Camp!
 | 16:30 - 17:00 | Where to go next?                                                           |
 | 17:00 - 17:30 | Demo                                                                        |
 | 17:30 - 18:00 | Check-out                                                                   |
-| 17:30 - 18:00 | Beer & fun                                                                  |
+| 18:00 -       | Beer & fun                                                                  |
 
 
 
