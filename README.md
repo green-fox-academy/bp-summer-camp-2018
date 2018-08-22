@@ -49,9 +49,9 @@ the Camp!
 | :------------ | :------------------------------------------------------------------------ |
 | 09:00 - 09:30 | Check-in                                                                  |
 | 09:30 - 11:00 | Presentation about Javascript Basics                    |
-| 11:00 - 13:00 | [Javascript Excersises]() workshop                                  |
+| 11:00 - 13:00 | [Introduction to programming](introduction-to-programming.md) workshop                                  |
 | 13:00 - 14:00 | Lunch break                                                               |
-| 14:00 - 15:30 | [Javascript Excersises]() workshop                                  |
+| 14:00 - 15:30 | [Introduction to programming](introduction-to-programming.md) workshop                                  |
 | 15:30 - 17:30 | [Update the Blog project](blog-project.md) workshop  
 | 17:30 - 18:00 | Check-out                                                                 |
 
