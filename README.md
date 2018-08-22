@@ -40,7 +40,7 @@ the Camp!
 | 11:00 - 13:00 | [Introduction to Web development basics](web-development-basics.md) workshop |
 | 13:00 - 14:00 | Lunch break                                                                  |
 | 14:00 - 15:30 | [Introduction to Web development basics](web-development-basics.md) workshop |
-| 15:30 - 17:00 | [Blog project](blog-project.md) workshop     
+| 15:30 - 17:30 | [Blog project](blog-project.md) workshop     
 | 17:30 - 18:00 | Check-out                                                                    |
 
 ### Day 2
@@ -51,7 +51,8 @@ the Camp!
 | 09:30 - 11:00 | Presentation about Javascript Basics                    |
 | 11:00 - 13:00 | [Javascript Excersises]() workshop                                  |
 | 13:00 - 14:00 | Lunch break                                                               |
-| 14:00 - 17:30 | [Javascript Excersises]() workshop                                  |
+| 14:00 - 15:30 | [Javascript Excersises]() workshop                                  |
+| 15:30 - 17:30 | [Update the Blog project](blog-project.md) workshop  
 | 17:30 - 18:00 | Check-out                                                                 |
 
 ### Day 3
