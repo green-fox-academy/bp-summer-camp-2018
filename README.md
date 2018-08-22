@@ -1,6 +1,6 @@
 # Summer Camp 2018
 
-## Prerequirements
+## Requirements
 
 You will need the following software installed on your computer for the Summer
 Camp. Please install these before arriving.
